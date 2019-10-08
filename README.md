@@ -44,7 +44,7 @@
 - Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - Ώρα / Time: 12:30' - 14:00'
 - Χώρος / Room:  **Room 1**
-- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Data%20Analytics%20&%20Mining%20with%20R%20(hands-on session))
+- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Data%20Analytics%20%26%20Mining%20with%20R%20(hands-on session))
 
 
 ## Maintainers
