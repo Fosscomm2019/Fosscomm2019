@@ -31,7 +31,7 @@
 - Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - Ώρα / Time: 13:00' - 14:30'
 - Χώρος / Room: Room 1
-- [Περισσότερες Πληροφορίες / Relevant Information]("./WORKSHOP Intro to Vue.js")
+- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Intro%20to%20Vue.js)
 
 
 ## Maintainers
