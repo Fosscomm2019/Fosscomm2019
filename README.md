@@ -12,7 +12,7 @@
 
 ## Περιεχόμενα / Table of Contents
 ### Πληροφορίες / Information
-- [Fosscomm2019](#fosscom2019)
+- [Fosscomm 2019](#fosscomm-2019)
 ### Ομιλίες - Εργαστήρια / Talks - Workshops
 #### Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - [WORKSHOP: Intro to Vue.js](#workshop-intro-to-vuejs)
@@ -26,7 +26,7 @@
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
 
-## Fosscomm2019
+## Fosscomm 2019
 - Επίσημη Iστοσελίδα / Official Web Page: [2019.fosscomm.gr](https://2019.fosscomm.gr/)
 - Διεύθυνση / Address: Παπασιοπούλου 2-4 35131 Λαμία / Papasiopoulou 2-4 35131 Lamia Greece
 - Επίσημη Σελίδα Facebook / Official Facebook Page: [@Fosscomm2019](https://www.facebook.com/Fosscomm-2019-348234339138486/)
