@@ -22,7 +22,7 @@
 - [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
 - [KEYNOTE TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό]()
 - [WORKSHOP: Raster και Raster Stack στην R](workshop-raster-και-raster-stack-στην-r)
-- [KEYNOTE TALK: Open IOT Security](Open IOT Security)
+- [KEYNOTE TALK: Open IOT Security]()
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
 
