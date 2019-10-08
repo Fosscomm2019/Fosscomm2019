@@ -20,3 +20,19 @@
 >Free and Open Source Software Communities Meeting 2019 [Fosscomm2019](https://2019.fosscomm.gr/)
 
 Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α.
+
+## Table of Contents
+### Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
+- [WORKSHOP: Intro to Vue.js](#WORKSHOPIntrotoVue.js)
+
+
+## WORKSHOP: Intro to Vue.js
+Κεντρική Ομιλία / Keynote Talk: Άκης Πιέτρης
+Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
+Ώρα / Time: 13:00' - 14:30'
+Χώρος / Room: Room 1
+[Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP Intro to Vue.js)
+
+
+## Maintainers
+[DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO).
