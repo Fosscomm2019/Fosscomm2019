@@ -31,7 +31,7 @@
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Microservices%20with%20NodeJS,%20gRPC%20and%20Kubernetes)
 
 ## WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami
-- Κεντρική Ομιλία / Keynote Talk: **Γιάννης Λάμης**
+- Κεντρική Ομιλία / Keynote Talk: **Δημήτρης Καρδαράκος**
 - Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - Ώρα / Time: 18:30' - 20:00'
 - Χώρος / Room:  **Room 3**
