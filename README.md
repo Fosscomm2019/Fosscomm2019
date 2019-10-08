@@ -66,8 +66,7 @@
 - Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - Ώρα / Time: 17:30' - 19:00'
 - Χώρος / Room:  **Room 1**
-- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Raster%20και%20Raster%20Stack%20στην%20R)
-
+- [Περισσότερες Πληροφορίες / Relevant Information](https://github.com/kokkytos/rworkshop/tree/1e76b9ebe4424147ab51bb2022829d922f49c6af)
 
 ## GitHub Maintainers
 [DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO).
