@@ -23,7 +23,7 @@
 
 ## Table of Contents
 ### Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
-- [WORKSHOP: Intro to Vue.js](#WORKSHOPIntrotoVue.js)
+- [WORKSHOP: Intro to Vue.js](##workshop-intro-to-vuejs)
 
 
 ## WORKSHOP: Intro to Vue.js
