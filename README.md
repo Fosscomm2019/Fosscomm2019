@@ -4,7 +4,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/DeadManWalkingTO/Fosscomm2019.svg)](../../)
 [![GitHub stars](https://img.shields.io/github/stars/DeadManWalkingTO/Fosscomm2019.svg)](../../stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/DeadManWalkingTO/Fosscomm2019.svg)](../../issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/DeadManWalkingTO/Fosscomm2019.svg)](../../issues)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 
 >Free and Open Source Software Communities Meeting 2019 [Fosscomm2019](https://2019.fosscomm.gr/)
