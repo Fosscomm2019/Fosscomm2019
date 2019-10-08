@@ -20,6 +20,7 @@
 - [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
+- [WORKSHOP: Raster και Raster Stack στην R](workshop-raster-και-raster-stack-στην-r)
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
 
@@ -59,6 +60,13 @@
 - Ώρα / Time: 12:30' - 14:00'
 - Χώρος / Room:  **Room 1**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Data%20Analytics%20%26%20Mining%20with%20R%20(hands-on%20session))
+
+## WORKSHOP: Raster και Raster Stack στην R
+- Κεντρική Ομιλία / Keynote Talk: **Λεωνίδας Λιάκος**
+- Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- Ώρα / Time: 17:30' - 19:00'
+- Χώρος / Room:  **Room 1**
+- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Raster%20και%20Raster%20Stack%20στην%20R)
 
 
 ## GitHub Maintainers
