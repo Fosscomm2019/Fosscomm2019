@@ -16,7 +16,7 @@
 ### Ομιλίες - Εργαστήρια / Talks - Workshops
 #### Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - [WORKSHOP: Intro to Vue.js](#workshop-intro-to-vuejs)
-- [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs,-grpc-and-kubernetes)
+- [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs-grpc-and-kubernetes)
 - [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
