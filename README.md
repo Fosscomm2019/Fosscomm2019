@@ -19,7 +19,7 @@
 - [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs-grpc-and-kubernetes)
 - [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
-- [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
+- [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics--mining-with-r-hands-on-session)
 - [KEYNOTE TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.](#keynote-talk-single-board-computer-clusters.-το-ανοικτό-λογισμικό-συναντά-το-ανοικτό-υλικό.)
 - [WORKSHOP: Raster και Raster Stack στην R](workshop-raster-και-raster-stack-στην-r)
 - [KEYNOTE TALK: Open IOT Security](keynote-talk-open-iot-security)
