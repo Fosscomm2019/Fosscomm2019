@@ -15,6 +15,8 @@
 - [WORKSHOP: Intro to Vue.js](#workshop-intro-to-vuejs)
 - [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs,-grpc-and-kubernetes)
 - [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
+### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
 
 ## WORKSHOP: Intro to Vue.js
 - Κεντρική Ομιλία / Keynote Talk: **Άκης Πιέτρης**
@@ -36,6 +38,13 @@
 - Ώρα / Time: 18:30' - 20:00'
 - Χώρος / Room:  **Room 3**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Ανάπτυξη%20εφαρμογών%20με%20QML%20και%20Kirigami)
+
+## WORKSHOP: Data Analytics & Mining with R (hands-on session)
+- Κεντρική Ομιλία / Keynote Talk: **Χάρης Γεωργίου**
+- Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- Ώρα / Time: 12:30' - 14:00'
+- Χώρος / Room:  **Room 1**
+- [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Data%20Analytics%20&%20Mining%20with%20R%20(hands-on session))
 
 
 ## Maintainers
