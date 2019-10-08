@@ -20,9 +20,9 @@
 - [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics-&-mining-with-r-hands-on-session)
-- [KEYNOTE TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό]()
+- [KEYNOTE TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.](#keynote-talk-single-board-computer-clusters.-το-ανοικτό-λογισμικό-συναντά-το-ανοικτό-υλικό.)
 - [WORKSHOP: Raster και Raster Stack στην R](workshop-raster-και-raster-stack-στην-r)
-- [KEYNOTE TALK: Open IOT Security]()
+- [KEYNOTE TALK: Open IOT Security](keynote-talk-open-iot-security)
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
 
@@ -63,12 +63,26 @@
 - Χώρος / Room:  **Room 1**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Data%20Analytics%20%26%20Mining%20with%20R%20(hands-on%20session))
 
+## KEYNOTE TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.
+- Κεντρική Ομιλία / Keynote Talk: **Ηλίας Μυριδάκης / Ilias Myridakis**
+- Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- Ώρα / Time: 16:00' - 17:30'
+- Χώρος / Room:  **Room 1**
+- [Περισσότερες Πληροφορίες / Relevant Information](./KEYNOTE%20TALK%20Single%20Board%20Computer%20Clusters.%20Το%20ανοικτό%20λογισμικό%20συναντά%20το%20ανοικτό%20υλικό.)
+
 ## WORKSHOP: Raster και Raster Stack στην R
 - Κεντρική Ομιλία / Keynote Talk: **Λεωνίδας Λιάκος**
 - Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - Ώρα / Time: 17:30' - 19:00'
 - Χώρος / Room:  **Room 1**
 - [Περισσότερες Πληροφορίες / Relevant Information](https://github.com/kokkytos/rworkshop/tree/1e76b9ebe4424147ab51bb2022829d922f49c6af)
+
+## KEYNOTE TALK: Open IOT Security
+- Κεντρική Ομιλία / Keynote Talk: **Δημήτριος Μυριδάκης / Dimitrios Myridakis**
+- Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- Ώρα / Time: 17:30' - 18:30'
+- Χώρος / Room:  **Room 2**
+- [Περισσότερες Πληροφορίες / Relevant Information](./KEYNOTE%20TALK%20Open%20IOT%20Security)
 
 ## GitHub Maintainers
 [DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO).
