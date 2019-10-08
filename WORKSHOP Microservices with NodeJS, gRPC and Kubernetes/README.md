@@ -1,1 +1,1 @@
-Workshop: Microservices with NodeJS, gRPC and Kubernetes
+WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes
