@@ -20,21 +20,21 @@
 - Κεντρική Ομιλία / Keynote Talk: **Άκης Πιέτρης**
 - Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - Ώρα / Time: 13:00' - 14:30'
-- Χώρος / Room: Room **1**
+- Χώρος / Room:  **Room 1**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Intro%20to%20Vue.js)
 
 ## WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes
 - Κεντρική Ομιλία / Keynote Talk: **Γιάννης Λάμης**
 - Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - Ώρα / Time: 17:30' - 19:00'
-- Χώρος / Room: Room **1**
+- Χώρος / Room:  **Room 1**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Microservices%20with%20NodeJS,%20gRPC%20and%20Kubernetes)
 
 ## WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami
 - Κεντρική Ομιλία / Keynote Talk: **Γιάννης Λάμης**
 - Ημέρα / Day: Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
 - Ώρα / Time: 18:30' - 20:00'
-- Χώρος / Room: Room **3**
+- Χώρος / Room:  **Room 3**
 - [Περισσότερες Πληροφορίες / Relevant Information](./WORKSHOP%20Ανάπτυξη%20εφαρμογών%20με%20QML%20και%20Kirigami)
 
 
