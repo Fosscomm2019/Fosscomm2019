@@ -8,12 +8,8 @@
 Για τις ανάγκες της ομιλίας «Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.» χρησιμοποιήθηκε το παρακάτω «Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα»:
 
 - Το λειτουργικό σύστημα [Ubuntu](www.ubuntu.com).
-  - Στοιχεία για την [Άδεια λογισμικού](https://el.wikipedia.org/wiki/Άδεια_λογισμικού) σε [«Wikipedia»](wikipedia.org).
-  - Στοιχεία για το [Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα](https://mathe.ellak.gr/) σε [«ΕΛ/ΛΑΚ»](ellak.gr).
-  - Στοιχεία για το αρχείο [«/etc/hosts»](en.wikipedia.org/wiki/Hosts_(file))
-  - Στοιχεία για τη χρήση κλειδιών [«RSA»](en.wikipedia.org/wiki/RSA_(cryptosystem)).
-  - Στοιχεία για είσοδο μέσω ασφαλής σύνδεσης [«SSΗ»](en.wikipedia.org/wiki/Secure_Shell).
-  - Στοιχεία για την εντολή [«hostname»](www.linfo.org/hostname_command.html).
+  - Σχετικά με τις [Άδειες λογισμικού](https://en.wikipedia.org/wiki/Software_license) σε [«Wikipedia»](wikipedia.org).
+  - Σχετικά με το [Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα](https://mathe.ellak.gr/) σε [«ΕΛ/ΛΑΚ»](ellak.gr).
 - Διεπαφή Διελεύσεως Μηνυμάτων [«Open-MPI»](www.open-mpi.org).
   - Όλα τα έγγραφα προδιαγραφών «MPI» υπάρχουν στην επίσημη ιστοσελίδα του [«MPI Forum»](http://www.mpi-forum.org).
 - Το [«Linpack Benchmark»](www.top500.org/project/linpack).
