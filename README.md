@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/DeadManWalkingTO/Fosscomm2019.svg)](../../issues)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 
->Free and Open Source Software Communities Meeting 2019 ([Fosscomm2019](https://2019.fosscomm.gr/))
+>Free and Open Source Software Communities Meeting 2019 [(Fosscomm2019)](https://2019.fosscomm.gr/)
 
 Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α. Το δωδέκατο FOSSCOMM θα λάβει χώρα στο Πανεπιστήμιο Θεσσαλίας στην πόλη της Λαμίας στις 12-13 Οκτωβρίου 2019.
 
