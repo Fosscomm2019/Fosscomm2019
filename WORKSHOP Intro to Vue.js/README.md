@@ -1,7 +1,3 @@
-WORKSHOP: Intro to Vue.js
-Άκης Πιέτρης
-
-
 ### **WORKSHOP: Intro to Vue.js**
 ---
 #### **Άκης Πιέτρης**
