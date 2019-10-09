@@ -1,7 +1,7 @@
 ### **Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.**
 ---
-#### **Ηλίας Μυριδάκης               /  Ilias Myridakis**
-#### **Ηλεκτρονικός Μηχανικός, MSc.  /  Electronic Engenner, MSc.**
+#### **Ηλίας Μυριδάκης / Ilias Myridakis**
+#### **Ηλεκτρονικός Μηχανικός, MSc. / Electronic Engenner, MSc.**
 --- 
 >Fosscomm 2019
 
