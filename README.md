@@ -12,7 +12,6 @@
 
 ---
 
-## Περιεχόμενα / Table of Contents
 ### Πληροφορίες / Information
 - [Fosscomm 2019](#fosscomm-2019)
 ### Ομιλίες - Εργαστήρια / Talks - Workshops
