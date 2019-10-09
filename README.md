@@ -10,6 +10,8 @@
 
 Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α.
 
+---
+
 ## Περιεχόμενα / Table of Contents
 ### Πληροφορίες / Information
 - [Fosscomm 2019](#fosscomm-2019)
@@ -25,6 +27,8 @@
 - [TALK: Open IOT Security](#talk-open-iot-security)
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
+
+---
 
 ## Fosscomm 2019
 - Επίσημη Iστοσελίδα / Official Web Page: [2019.fosscomm.gr](https://2019.fosscomm.gr/)
@@ -83,6 +87,8 @@
 - Ώρα / Time: 17:30' - 18:30'
 - Χώρος / Room:  **Room 2**
 - [Περισσότερες Πληροφορίες / Relevant Information](./TALK%20Open%20IOT%20Security)
+
+---
 
 ## GitHub Maintainers
 [DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO).
