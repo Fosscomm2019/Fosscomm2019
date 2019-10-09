@@ -7,12 +7,12 @@
 
 Για τις ανάγκες της ομιλίας «Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.» χρησιμοποιήθηκε το παρακάτω «Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα»:
 
-- Το λειτουργικό σύστημα [Ubuntu](www.ubuntu.com).
-  - Σχετικά με τις [Άδειες λογισμικού](https://en.wikipedia.org/wiki/Software_license) σε [«Wikipedia»](wikipedia.org).
-  - Σχετικά με το [Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα](https://mathe.ellak.gr/) σε [«ΕΛ/ΛΑΚ»](ellak.gr).
-- Διεπαφή Διελεύσεως Μηνυμάτων [«Open-MPI»](www.open-mpi.org).
-  - Όλα τα έγγραφα προδιαγραφών «MPI» υπάρχουν στην επίσημη ιστοσελίδα του [«MPI Forum»](http://www.mpi-forum.org).
-- Το [«Linpack Benchmark»](www.top500.org/project/linpack).
+* Το λειτουργικό σύστημα [Ubuntu](www.ubuntu.com).
+  * Σχετικά με τις [Άδειες λογισμικού](https://en.wikipedia.org/wiki/Software_license) σε [«Wikipedia»](wikipedia.org).
+  * Σχετικά με το [Ελεύθερο Λογισμικό / Λογισμικό Ανοικτού Κώδικα](https://mathe.ellak.gr/) σε [«ΕΛ/ΛΑΚ»](ellak.gr).
+* Διεπαφή Διελεύσεως Μηνυμάτων [«Open-MPI»](www.open-mpi.org).
+  * Όλα τα έγγραφα προδιαγραφών «MPI» υπάρχουν στην επίσημη ιστοσελίδα του [«MPI Forum»](http://www.mpi-forum.org).
+* Το [«Linpack Benchmark»](www.top500.org/project/linpack).
 - Το κρυπτονόμισμα [«AEON»](www.aeon.cash) το οποίο χρησιμοποιεί τον αλγόριθμο [«CryptoNight-Lite»](en.bitcoinwiki.org/wiki/CryptoNight-Lite).
 - Ο κόμβος του [«ΑΕΟΝ»](github.com/aeonix/aeon) στο [GitHub](github.com).
 - Το [«monero-stratum»](github.com/sammy007/monero-stratum/tree/aeon) στο [GitHub](github.com).
