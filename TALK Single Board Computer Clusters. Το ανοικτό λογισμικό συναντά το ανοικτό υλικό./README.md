@@ -13,13 +13,13 @@
 * Διεπαφή Διελεύσεως Μηνυμάτων [«Open-MPI»](www.open-mpi.org).
   * Όλα τα έγγραφα προδιαγραφών «MPI» υπάρχουν στην επίσημη ιστοσελίδα του [«MPI Forum»](http://www.mpi-forum.org).
 * Το [«Linpack Benchmark»](www.top500.org/project/linpack).
-- Το κρυπτονόμισμα [«AEON»](www.aeon.cash) το οποίο χρησιμοποιεί τον αλγόριθμο [«CryptoNight-Lite»](en.bitcoinwiki.org/wiki/CryptoNight-Lite).
-- Ο κόμβος του [«ΑΕΟΝ»](github.com/aeonix/aeon) στο [GitHub](github.com).
-- Το [«monero-stratum»](github.com/sammy007/monero-stratum/tree/aeon) στο [GitHub](github.com).
-- Το [«XMRig»](github.com/xmrig/xmrig) στο [GitHub](github.com).
-- Το [«XMRig-Proxy»](github.com/xmrig/xmrig-proxy) στο [GitHub](github.com).
-- Το [«MSAProbs»](msaprobs.sourceforge.net) στο [SourceForge](sourceforge.net). 
-- Τα δεδομένα που χρησιμοποιήθηκαν στην εφαρμογή Βιοπληροφορικής είναι πρωτεΐνες ζωντανών οργανισμών σε αρχεία μορφής [«fasta»](en.wikipedia.org/wiki/FASTA_format).
+* Το κρυπτονόμισμα [«AEON»](www.aeon.cash) το οποίο χρησιμοποιεί τον αλγόριθμο [«CryptoNight-Lite»](en.bitcoinwiki.org/wiki/CryptoNight-Lite).
+* Ο κόμβος του [«ΑΕΟΝ»](github.com/aeonix/aeon) στο [GitHub](github.com).
+* Το [«monero-stratum»](github.com/sammy007/monero-stratum/tree/aeon) στο [GitHub](github.com).
+* Το [«XMRig»](github.com/xmrig/xmrig) στο [GitHub](github.com).
+* Το [«XMRig-Proxy»](github.com/xmrig/xmrig-proxy) στο [GitHub](github.com).
+* Το [«MSAProbs»](msaprobs.sourceforge.net) στο [SourceForge](sourceforge.net). 
+* Τα δεδομένα που χρησιμοποιήθηκαν στην εφαρμογή Βιοπληροφορικής είναι πρωτεΐνες ζωντανών οργανισμών σε αρχεία μορφής [«fasta»](en.wikipedia.org/wiki/FASTA_format).
 
 ---
 
