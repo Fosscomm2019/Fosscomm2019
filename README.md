@@ -9,6 +9,7 @@
 >Free and Open Source Software Communities Meeting 2019 [Fosscomm2019](https://2019.fosscomm.gr/)
 
 Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α.
+
 FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conference aiming at free-software and open-source enthusiasts, developers, and communities. It has been hosted in various cities around Greece and its goal is to promote the use of FOSS in Greece and to bring FOSS enthusiasts together.
 
 ---
