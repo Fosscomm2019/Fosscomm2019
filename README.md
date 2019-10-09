@@ -8,13 +8,9 @@
 
 >Free and Open Source Software Communities Meeting 2019 ([Fosscomm2019](https://2019.fosscomm.gr/))
 
->Το δωδέκατο FOSSCOMM θα λάβει χώρα στο Πανεπιστήμιο Θεσσαλίας στην πόλη της Λαμίας στις 12-13 Οκτωβρίου 2019.
+Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α. Το δωδέκατο FOSSCOMM θα λάβει χώρα στο Πανεπιστήμιο Θεσσαλίας στην πόλη της Λαμίας στις 12-13 Οκτωβρίου 2019.
 
->The twelfth FOSSCOMM will take place in University of Thessaly near Lamia, on October 11–13, 2019.
-
-Το FOSSCOMM (Free and Open Source Software Communities Meeting) είναι ένα ετήσιο πανελλήνιο συνέδριο κοινοτήτων ελεύθερου λογισμικού και λογισμικού ανοικτού κώδικα. Απευθύνεται σε προγραμματιστές, φοιτητές και γενικά σε όποιους ενδιαφέρονται για το open source ανεξαρτήτως του γνωστικού τους υποβάθρου. Συμμετέχουν κοινότητες ανοικτού λογισμικού, ομάδες προγραμματιστών και συντελεστών έργων. Το περιεχόμενο είναι ευρέως ενδιαφέροντος, από τεχνικά ζητήματα και workshops, μέχρι μεταφράσεις, νομικά θέματα, θέματα πολιτικής σχετικά με το ελεύθερο/ανοικτό λογισμικό κ.α.
-
-FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conference aiming at free-software and open-source enthusiasts, developers, and communities. It has been hosted in various cities around Greece and its goal is to promote the use of FOSS in Greece and to bring FOSS enthusiasts together.
+FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conference aiming at free-software and open-source enthusiasts, developers, and communities. It has been hosted in various cities around Greece and its goal is to promote the use of FOSS in Greece and to bring FOSS enthusiasts together. The twelfth FOSSCOMM will take place in University of Thessaly near Lamia, on October 11–13, 2019.
 
 ---
 ## Περιεχόμενα / Table of Contents
