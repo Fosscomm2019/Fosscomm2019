@@ -1,1 +1,11 @@
-WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes
+### **WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes**
+---
+#### **Γιάννης Λάμης**
+--- 
+>Fosscomm 2019
+
+Για την συμμετοχή στο συγκεκριμμένο workshop **ΔΕΝ** χρειάζεται καμία προετοιμασία από πλευράς υλικού και λογισμικού.
+
+---
+
+Για οποιαδήποτε διευκρίνηση ή πληροφορία ισχύουν οι επίσημοι τρόποι επικοινωνίας του συνεδρίου.
