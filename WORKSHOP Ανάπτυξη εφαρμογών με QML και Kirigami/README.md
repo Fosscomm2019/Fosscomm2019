@@ -24,7 +24,9 @@ sudo apt-get install ecm qtbase5-dev build-essential git gcc g++ qtdeclarative5-
 #### Εναλλακτικά με χρήση Virtual Machine
 
 * Εγκατάσταση του [VirtualBox](https://www.virtualbox.org/).
-* Λήψη του αρχείου Virtual Machine με εγκατεστημένα τα προαπαιτούμενα.
+* Λήψη του αρχείου [Virtual Machine με εγκατεστημένα τα προαπαιτούμενα](https://nc.dib.uth.gr/index.php/s/xGLqyLBeKTzPEBB).
+* Password για την λήψη του αρχείου `1234`.
+* Password για την είσοδο στο VM `123456`.
 
 ---
 
