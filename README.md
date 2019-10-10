@@ -28,7 +28,7 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r) (**Λεωνίδας Λιάκος**)
 - [TALK: Open IOT Security](#talk-open-iot-security) (**Δημήτριος Μυριδάκης**)
 ### Λοιπά / Other
-- []()
+- [Virtual Machines](#virtual-machines)
 - [GitHub Maintainers](#github-maintainers)
 
 ---
