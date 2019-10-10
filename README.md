@@ -18,14 +18,14 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - [Fosscomm 2019](#fosscomm-2019)
 ### Ομιλίες - Εργαστήρια / Talks - Workshops
 #### Σάββατο 12 Οκτωβρίου 2019 / Saturday 12 October 2019
-- [WORKSHOP: Intro to Vue.js](#workshop-intro-to-vuejs)
-- [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs-grpc-and-kubernetes)
-- [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami)
+- [WORKSHOP: Intro to Vue.js](#workshop-intro-to-vuejs) (**Άκης Πιέτρης**)
+- [WORKSHOP: Microservices with NodeJS, gRPC and Kubernetes](#workshop-microservices-with-nodejs-grpc-and-kubernetes) (**Γιάννης Λάμης**)
+- [WORKSHOP: Ανάπτυξη εφαρμογών με QML και Kirigami](#workshop-ανάπτυξη-εφαρμογών-με-qml-και-kirigami) (**Δημήτρης Καρδαράκος**)
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
-- [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics--mining-with-r-hands-on-session)
-- [TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.](#talk-single-board-computer-clusters-το-ανοικτό-λογισμικό-συναντά-το-ανοικτό-υλικό)
-- [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r)
-- [TALK: Open IOT Security](#talk-open-iot-security)
+- [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics--mining-with-r-hands-on-session) (**Χάρης Γεωργίου**)
+- [TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.](#talk-single-board-computer-clusters-το-ανοικτό-λογισμικό-συναντά-το-ανοικτό-υλικό) (**Ηλίας Μυριδάκης**)
+- [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r) **(Λεωνίδας Λιάκος)**
+- [TALK: Open IOT Security](#talk-open-iot-security) (**Δημήτριος Μυριδάκης**)
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
 
