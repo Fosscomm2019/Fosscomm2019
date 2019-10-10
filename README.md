@@ -24,7 +24,8 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 #### Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - [WORKSHOP: Data Analytics & Mining with R (hands-on session)](#workshop-data-analytics--mining-with-r-hands-on-session) (**Χάρης Γεωργίου**)
 - [TALK: Single Board Computer Clusters. Το ανοικτό λογισμικό συναντά το ανοικτό υλικό.](#talk-single-board-computer-clusters-το-ανοικτό-λογισμικό-συναντά-το-ανοικτό-υλικό) (**Ηλίας Μυριδάκης**)
-- [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r) **(Λεωνίδας Λιάκος)**
+- [WORKSHOP: OpenCV Hands-on](#workshop-opencv-hands-on) (**Γιάννης Δήμος**)
+- [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r) (**Λεωνίδας Λιάκος**)
 - [TALK: Open IOT Security](#talk-open-iot-security) (**Δημήτριος Μυριδάκης**)
 ### Λοιπά / Other
 - [GitHub Maintainers](#github-maintainers)
@@ -73,6 +74,13 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
 - Ώρα / Time: 16:00' - 17:30'
 - Χώρος / Room:  **Room 1**
+- [Περισσότερες Πληροφορίες / Relevant Information](./TALK%20Single%20Board%20Computer%20Clusters.%20Το%20ανοικτό%20λογισμικό%20συναντά%20το%20ανοικτό%20υλικό.)
+
+## WORKSHOP: OpenCV Hands-on
+- Κεντρική Ομιλία / Keynote Talk: **Γιάννης Δήμος**
+- Ημέρα / Day: Κυριακή 13 Οκτωβρίου 2019 / Sunday 13 October 2019
+- Ώρα / Time: 16:00' - 17:30'
+- Χώρος / Room:  **Room 2**
 - [Περισσότερες Πληροφορίες / Relevant Information](./TALK%20Single%20Board%20Computer%20Clusters.%20Το%20ανοικτό%20λογισμικό%20συναντά%20το%20ανοικτό%20υλικό.)
 
 ## WORKSHOP: Raster και Raster Stack στην R
