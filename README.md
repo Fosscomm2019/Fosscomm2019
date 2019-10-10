@@ -38,7 +38,7 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - Επίσημος Λογαριασμός Twitter / Official Twitter Account: [@fosscomm2019](https://twitter.com/fosscomm2019)
 - Επίσημος Λογαριασμός Messenger / Official Messenger Account: [m.me/348234339138486](https://m.me/348234339138486)
 - Επίσημη Διεύθυνση Ηλεκτρονικού Ταχυδρομείου / Official e-mail Address: [fosscomm2019@gmail.com](mailto:fosscomm2019@gmail.com)
-- Επίσημη Διεύθυνση GitHub / Official GitHub Address: [github.com/DeadManWalkingTO/Fosscomm2019](https://github.com/DeadManWalkingTO/Fosscomm2019)
+- Επίσημη Διεύθυνση GitHub / Official GitHub Address: [github.com/DeadManWalkingTO/Fosscomm2019](https://github.com/Fosscomm2019/Fosscomm2019)
 
 ## WORKSHOP: Intro to Vue.js
 - Κεντρική Ομιλία / Keynote Talk: **Άκης Πιέτρης**
