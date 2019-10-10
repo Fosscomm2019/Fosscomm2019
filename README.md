@@ -1,9 +1,9 @@
 # Fosscomm2019
-[![HitCount](http://hits.dwyl.io/DeadManWalkingTO/Fosscomm2019.svg)](../../)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/DeadManWalkingTO/Fosscomm2019.svg)](../../)
-[![GitHub last commit](https://img.shields.io/github/last-commit/DeadManWalkingTO/Fosscomm2019.svg)](../../)
-[![GitHub stars](https://img.shields.io/github/stars/DeadManWalkingTO/Fosscomm2019.svg)](../../stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/DeadManWalkingTO/Fosscomm2019.svg)](../../issues)
+[![HitCount](http://hits.dwyl.io/Fosscomm2019/Fosscomm2019.svg)](../../)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fosscomm2019/Fosscomm2019.svg)](../../)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Fosscomm2019/Fosscomm2019.svg)](../../)
+[![GitHub stars](https://img.shields.io/github/stars/Fosscomm2019/Fosscomm2019.svg)](../../stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Fosscomm2019/Fosscomm2019.svg)](../../issues)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 
 >Free and Open Source Software Communities Meeting 2019 [(Fosscomm2019)](https://2019.fosscomm.gr/)
