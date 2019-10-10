@@ -28,6 +28,7 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - [WORKSHOP: Raster και Raster Stack στην R](#workshop-raster-και-raster-stack-στην-r) (**Λεωνίδας Λιάκος**)
 - [TALK: Open IOT Security](#talk-open-iot-security) (**Δημήτριος Μυριδάκης**)
 ### Λοιπά / Other
+- []()
 - [GitHub Maintainers](#github-maintainers)
 
 ---
@@ -96,6 +97,27 @@ FOSSCOMM (Free and Open Source Software Communities Meeting) is a Greek conferen
 - Ώρα / Time: 17:30' - 18:30'
 - Χώρος / Room:  **Room 2**
 - [Περισσότερες Πληροφορίες / Relevant Information](./TALK%20Open%20IOT%20Security)
+
+---
+
+## Virtual Machines
+Για την ομαλή διεξαγωγή των workshop οι ενδιαφερόμενοι μπορούν να δουν αναλυτικά τα προαπαιτούμενα στον φάκελο ενός εκάστου.
+
+Παρέχεται επίσης η δυνατότητα στους ενδιαφερομένους να κατεβάσουν κάποια γενικά είδωλα Virtual Machine και να προβούν στην εγκατάσταση των προαπαιτουμένων των workshop που θα λάβουν μέρος.
+
+* Προτείνεται η εγκατάσταση του [VirtualBox](https://www.virtualbox.org/).
+
+### Ubuntu 18.04 LTS (Mod Fosscomm)
+Ubuntu 18.04 LTS με εγκατεστημένα τα προαπαιτούμενα των περισσότερων workshops.
+* Λήψη του αρχείου [Virtual Machine](https://nc.dib.uth.gr/index.php/s/GtRHLqYXw9Xsd7z).
+* Password για την λήψη του αρχείου `1234`.
+* Password για την είσοδο στο VM `nbu6113`.
+
+### KDE neon (User Edition 64bit) (Mod Fosscomm)
+KDE neon με εγκατεστημένα τα προαπαιτούμενα των περισσότερων workshops.
+* Λήψη του αρχείου [Virtual Machine](https://nc.dib.uth.gr/index.php/s/xGLqyLBeKTzPEBB).
+* Password για την λήψη του αρχείου `1234`.
+* Password για την είσοδο στο VM `123456`.
 
 ---
 
