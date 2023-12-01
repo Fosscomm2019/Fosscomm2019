@@ -1,5 +1,5 @@
 # Fosscomm2019
-[![HitCount](http://hits.dwyl.io/Fosscomm2019/Fosscomm2019.svg)](../../)
+[![Hits](https://hits.sh/github.com/Fosscomm2019/Fosscomm2019.svg?style=plastic&label=HitCount)](../../)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fosscomm2019/Fosscomm2019.svg)](../../)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Fosscomm2019/Fosscomm2019.svg)](../../)
 [![GitHub stars](https://img.shields.io/github/stars/Fosscomm2019/Fosscomm2019.svg)](../../stargazers)
